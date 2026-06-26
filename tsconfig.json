@@ -1,0 +1,10 @@
+{
+	"extends": "@ljharb/tsconfig",
+	"compilerOptions": {
+		"target": "ESNext",
+		"lib": ["ES2025"],
+	},
+	"exclude": [
+		"coverage",
+	],
+}
