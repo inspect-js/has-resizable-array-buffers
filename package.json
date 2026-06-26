@@ -1,0 +1,29 @@
+{
+	"name": "has-resizable-array-buffers",
+	"version": "0.0.0",
+	"description": "Does the current environment have support for resizable `ArrayBuffer`s?",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inspect-js/has-resizable-array-buffers.git"
+	},
+	"keywords": [
+		"arraybuffer",
+		"array",
+		"buffer",
+		"resizable"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inspect-js/has-resizable-array-buffers/issues"
+	},
+	"homepage": "https://github.com/inspect-js/has-resizable-array-buffers#readme"
+}
