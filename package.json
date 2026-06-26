@@ -1,6 +1,6 @@
 {
 	"name": "has-resizable-array-buffers",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Does the current environment have support for resizable `ArrayBuffer`s?",
 	"main": "index.js",
 	"exports": {
